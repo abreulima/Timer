@@ -1,5 +1,6 @@
 /*
-A  
+Made by Ivan Abreu 
+This algorithm calls the function core() every at most callsPerSecond times per second.
 */
 
 #include <stdio.h>
